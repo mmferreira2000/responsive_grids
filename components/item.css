@@ -1,0 +1,7 @@
+.item {
+  background-color: #778da9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: .5rem;
+}

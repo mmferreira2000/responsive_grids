@@ -1,0 +1,22 @@
+/* Import font */
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&family=Red+Hat+Mono:wght@300;400&family=Source+Code+Pro:wght@300;700&display=swap');
+
+/* Import components */
+@import url('components/container.css');
+@import url('components/content1.css');
+@import url('components/content2.css');
+@import url('components/content3.css');
+@import url('components/footer.css');
+@import url('components/item.css');
+@import url('components/main.css');
+@import url('components/navbar.css');
+@import url('components/responsive.css');
+@import url('components/scrollbar.css');
+@import url('components/sidebar.css');
+
+body {
+  font-family: 'Red Hat Mono', monospace;
+  background-color: #e0e1dd;
+  color: #faedcd;
+  /* faedcd */
+}
